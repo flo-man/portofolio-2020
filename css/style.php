@@ -32,3 +32,8 @@ small {
     border: 1px solid lightgrey;
     border-radius: 1vh
 }
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
