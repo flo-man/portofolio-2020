@@ -1,6 +1,6 @@
 <div class="sous-paragraphe">
     <h3>WebForce 3 <small>(2020)</small></h3>
-    <p>Formation en développement web et web mobile. 490 heures de formation réalisées pour concevoir et coder des sites et applications, web et mobiles,pour tout type d'entreprises avec des technologies front-end et back-end.
+    <p>Formation en développement web et web mobile. 490 heures de formation réalisées pour concevoir et coder des sites et applications, web et mobiles, pour tout type d'entreprises avec des technologies front-end et back-end.
     <p class="blockquote-footer">Diplôme inscrit au RNCP - Développeur web et web mobile</p>
     </p>
     <hr>
