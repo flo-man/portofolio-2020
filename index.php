@@ -1,9 +1,7 @@
 <?php
-require_once 'inc/init.php';
-//***************************************** TRAITEMENT PHP *****************************************//
-$contenu = '';
 
-//***************************************** AFFICHAGE *****************************************//
+require_once 'inc/init.php';
+
 require_once 'inc/header.php';
 ?>
             <div class="col-md-9 space">
