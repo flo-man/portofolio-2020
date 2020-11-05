@@ -16,6 +16,12 @@
         <div class="row">
             <div class="col-md-3 space logo">
                 <a href="<?php RACINE_SITE ?>"><img src="_site_sources/img/portfolio_logo.png" alt="logo_fc"></a>
+                <div class="pl-4 pr-4">
+                  <p class="text-center"><small>Un développeur curieux et sympa basé à Paris. Passioné de musique et d'informatique depuis 1987.</small></p>
+                  <div class="mb-3 row justify-content-around">
+                    <a class="text-dark" target="_blank" href="https://github.com/flo-man"><i class="fab fa-github fa-2x"></i></a><a class="text-dark" target="_blank" href="https://www.linkedin.com/in/florent-claudot-5411a0172/"><i class="fab fa-linkedin fa-2x"></i></a><a class="text-dark" target="_blank" href="https://twitter.com/Flo_Brown"><i class="fab fa-twitter fa-2x"></i></a>
+                  </div>
+                </div>
                 <div class="nav flex-column nav-pills pl-1" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                   <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true"><i class="far fa-user-circle pr-2"></i>À Propos</a>
                     <a class="nav-link" id="v-pills-parcours-tab" data-toggle="pill" href="#v-pills-parcours" role="tab" aria-controls="v-pills-parcours" aria-selected="true"><i class="fas fa-graduation-cap pr-2"></i>Parcours</a>

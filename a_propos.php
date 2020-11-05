@@ -13,31 +13,31 @@
             <h3 class="text-success">Expertise</h3>
             <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></p>
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">HTML / CSS</li>
-                <li class="list-group-item">Bootstrap</li>
-                <li class="list-group-item">Wordpress</li>
-                <li class="list-group-item">Design graphique</li>
-                <li class="list-group-item">Montage audio et vidéo</li>
+                <li class="list-group-item"><img src="_site_sources/img/logos/logo-htmlcss.png" class="rounded mx-auto w-25" alt="html-css"><p>HTML + CSS</p></li>
+                <li class="list-group-item"><img src="_site_sources/img/logos/logo-bootstrap.png" class="rounded mx-auto w-25" alt="bootstrap"><p>Bootstrap</p></li>
+                <li class="list-group-item"><img src="_site_sources/img/logos/logo-wp.png" class="rounded mx-auto w-25" alt="wordpress"><p>Wordpress</p></li>
+                <li class="list-group-item"><img src="_site_sources/img/logos/logo-graphic.png" class="rounded mx-auto w-25" alt="graphic"><p>Design graphique</p></li>
+                <li class="list-group-item"><img src="_site_sources/img/logos/logo-logic.png" class="rounded mx-auto w-25" alt="logicpro"><img src="_site_sources/img/logos/logo-finalcut.png" class="rounded mx-auto w-25" alt="finalcut"><p>Montage audio et vidéo</p></li>
             </ul>
         </div>
         <div class="col-md-4 text-center">
             <h3 class="text-info">Maîtrise</h3>
             <p><i class="fas fa-star"></i><i class="fas fa-star"></i></p>
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">JavaScript</li>
-                <li class="list-group-item">JQuery</li>
-                <li class="list-group-item">PHP</li>
-                <li class="list-group-item">SQL</li>
+                <li class="list-group-item"><img src="_site_sources/img/logos/logo-js.png" class="rounded mx-auto w-25" alt="javascript"><p>JavaScript</p></li>
+                <li class="list-group-item mt-1"><img src="_site_sources/img/logos/logo-jquery.png" class="rounded mx-auto w-25" alt="jquery"><p>JQuery</p></li>
+                <li class="list-group-item my-2 pt-3"><img src="_site_sources/img/logos/logo-php.png" class="rounded mx-auto w-25" alt="php"><p>PHP</p></li>
+                <li class="list-group-item"><img src="_site_sources/img/logos/logo-mysql.png" class="rounded mx-auto w-25" alt="mysql"><p>SQL</p></li>
             </ul>
         </div>
         <div class="col-md-4 text-center">
             <h3 class="text-warning">Fonctionnel</h3>
             <p><i class="fas fa-star"></i></p>
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">Symfony</li>
-                <li class="list-group-item">Angular</li>
-                <li class="list-group-item">Ionic</li>
-                <li class="list-group-item">Node.js</li>
+                <li class="list-group-item mt-2"><img src="_site_sources/img/logos/logo-symfony.png" class="rounded mx-auto w-25" alt="symfony"><p>Symfony</p></li>
+                <li class="list-group-item pb-1"><img src="_site_sources/img/logos/logo-angular.png" class="rounded mx-auto w-25" alt="angular"><p>Angular</p></li>
+                <li class="list-group-item pt-4"><img src="_site_sources/img/logos/logo-ionic.png" class="rounded mx-auto w-50" alt="ionic"><p>Ionic</p></li>
+                <li class="list-group-item pt-4"><img src="_site_sources/img/logos/logo-node.png" class="rounded mx-auto w-25" alt="nodejs"><p>Node.js</p></li>
             </ul>
         </div>
     </div>

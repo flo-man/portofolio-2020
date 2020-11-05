@@ -30,21 +30,23 @@
     <p><b>Réseaux Sociaux:</b></p>
 
     <div class="row justify-content-evenly align-items-center">    
-        <div class="col-lg-3">
+        <div class="col-lg-3 mb-3">
             <p class="text-muted">GitHub</p>
             <a href="https://github.com/flo-man" target="_blank">Profil sur GitHub</a>
         </div>
-        <div class="col-lg-3">
-            <p class="text-muted">LinkedIn</p>
-            <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="florent-claudot-5411a0172"><a class="LI-simple-link" target="_blank" href='https://fr.linkedin.com/in/florent-claudot-5411a0172?trk=profile-badge'>Florent Claudot</a></div>
-        </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 mb-3">
             <p class="text-muted">Twitter</p>
             <a href="https://twitter.com/Flo_Brown?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="fr" data-show-count="false">Follow @Flo_Brown</a>
         </div> 
-        <div class="col-lg-3">
+        <div class="col-lg-3 mb-3">
             <p class="text-muted">Spotify</p>
             <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:flo-brown&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
         </div>   
+    </div>
+    <div class="row">
+    <div class="col-lg-3">
+            <p class="text-muted">LinkedIn</p>
+            <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="florent-claudot-5411a0172"><a class="LI-simple-link" target="_blank" href='https://fr.linkedin.com/in/florent-claudot-5411a0172?trk=profile-badge'>Florent Claudot</a></div>
+        </div>
     </div>
 </div>
