@@ -1,6 +1,6 @@
 <div class="sous-paragraphe">
     <h3>Musique</h3>
-    <p>J'écris, enregistre et produis de la musique depuis 2007. Mes genres de prédiléctions sont le Rock et la Pop. En tant qu'artiste j'ai publié plusieurs albums en collaboration avec le label collectif Rendez Vous Records. J'ai également réalisé de nombreux habillage musicaux ( spotpublicitaires, annonces, ... ) pour des clients tels que Sony, Ekyog et la SNCF.</p>
+    <p>J'écris, enregistre et produis de la musique depuis 2007. Mes genres de prédilection sont le Rock et la Pop. En tant qu'artiste j'ai publié plusieurs albums en collaboration avec le label collectif Rendez Vous Records. J'ai également réalisé de nombreux habillages musicaux ( spots publicitaires, annonces, ... ) pour des clients tels que Sony, Ekyog et la SNCF.</p>
     <dl class="row">
         <dt class="col-sm-3">Portfolio musical</dt>
         <dd class="col-sm-9"><a href="http://www.flo-brown.com" target="_blank">www.flo-brown.com</a></dd>
@@ -11,7 +11,7 @@
     </dl>
     <hr>
     <h3>Podcast</h3>
-    <p>J'anime depuis 2017 le podcast Puissance Pop. Cette émission a pour vocation de faire découvrir régulièrement aux auditeurs de nouvelles chansons par des artistes quasi-inconnu du grand public.</p>
+    <p>J'anime depuis 2017 le podcast Puissance Pop. Cette émission a pour vocation de faire découvrir régulièrement aux auditeurs de nouvelles chansons par des artistes peu connus du grand public.</p>
     <dl class="row">
         <dt class="col-sm-4">Écouter "Puissance Pop"</dt>
         <dd class="col-sm-8"><a href="http://www.puissancepop.fr" target="_blank">

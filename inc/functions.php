@@ -24,7 +24,7 @@ $subject = 'Nouveau message depuis mon portfolio';
 $fields = array('email' => 'Email', 'message' => 'Message'); 
 
 // message that will be displayed when everything is OK :)
-$okMessage = 'Merci pour votre message. Je vous réponderais dès que possible.';
+$okMessage = 'Merci pour votre message. Je vous répondrai dès que possible.';
 
 // If something goes wrong, we will display this message.
 $errorMessage = 'Une erreur est survenue, veuillez réessayer.';

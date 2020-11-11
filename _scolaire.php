@@ -9,6 +9,6 @@
     <p class="blockquote-footer">Higher National Certificate in Guitar, Music Theory & Performance (Équivalent BTS)</p>
     <hr>
     <h3>Sup De Pub <small>(2005 - 2008)</small></h3>
-    <p>Formation de spécialiste, connaissant les techniques de la communication au sein des entreprises, des agences de communication ou encore desadministrations et des collectivités.</p>
+    <p>Formation de spécialiste des techniques de la communication au sein des entreprises, des agences de communication ou encore des administrations et des collectivités.</p>
     <p class="blockquote-footer">BTS en Communication des Entreprises</p>
 </div>

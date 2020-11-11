@@ -1,8 +1,8 @@
 <h1 class="text-center mt-3">À Propos</h1>
 <div class="paragraphe">
     <p>Mon nom est Florent Claudot, bienvenue sur mon portfolio. Je suis un développeur web junior, curieux et enthousiaste. Vous pouvez découvrir ici mon profil, mes projets et me contacter dans les sections correspondantes.</p>
-    <p>Mon parcours dans le développement web à officiellement débuté en 2020, cependant j'ai commencé à m'intéresser à l'informatique dès mon plus jeune âge. En tant qu'auto-didacte j'ai réalisé plusieurs projets avant même ma formation en école.</p>
-    <p>Je travail également en tant qu'artiste, musicien et podcasteur indépendant. Mes travaux personnels s'articulent principalement autour de sujets qui me passionent : la musique, l'univers vidéo ludique, la science fiction, la pop culture, le café, la sociologie, le design graphique et un tas d'autres choses.</p>
+    <p>Mon parcours dans le développement web a officiellement débuté en 2020, cependant j'ai commencé à m'intéresser à l'informatique dès mon plus jeune âge. En tant qu'auto-didacte, j'ai réalisé plusieurs projets avant même ma formation en école. Aujourd'hui, mon objectif est de monter en compétence en travaillant avec de nouveaux outils en équipe et de développer ma maîtrise des frameworks modernes.</p>
+    <p>Je travaille également en tant qu'artiste, musicien et podcasteur indépendant. Mes travaux personnels s'articulent principalement autour de sujets qui me passionent : la musique, l'univers vidéo ludique, la science fiction, la pop culture, le café, la sociologie, le design graphique et un tas d'autres choses.</p>
 </div>
 
 <h1 class="text-center mt-3">Compétences</h1>
